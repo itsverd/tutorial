@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Belajar dasar HTML</title>
+
+    </head>
+
+    <body>
+
+        <h1>Selamat datang di Web Saya!</h1>
+
+        <p>Ini adalah contoh halaman web menggunakan HTML.</p>
+
+        <img src="image.webp" alt="Contoh Gambar">
+
+    </body>
+
+</html>
